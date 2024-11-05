@@ -86,7 +86,7 @@ if (!isset($_SESSION['username'])) {
             <button type="submit" name="insertNewPostBtn" class="btn">Submit</button>
         </form>
 
-        <h1 class="mt-5">All Projects</h1>
+        <h1 class="stroke-text">𐙚💌👄💆🏻‍♀️🧴💅🏻🧼🫧All Projects💗🌸👝🛒💮🌷🌺𐙚</h1>
         <?php $getAllPosts = getAllPosts($pdo); ?>
         <?php foreach ($getAllPosts as $row) { ?>
             <div class="card mt-3">
