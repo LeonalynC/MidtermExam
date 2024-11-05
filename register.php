@@ -16,7 +16,7 @@ require_once 'core/handleForms.php';
 </head>
 <body>
     <div class="container mt-4">
-        <h1>Register here!</h1>
+        <h1>Register here! ˚˖𓍢ִ໋🦢˚</h1>
         <?php if (isset($_SESSION['message'])) { ?>
             <div class="alert alert-danger"><?php echo $_SESSION['message']; ?></div>
             <?php unset($_SESSION['message']); ?>
